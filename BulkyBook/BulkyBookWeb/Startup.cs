@@ -28,6 +28,7 @@ namespace BulkyBookWeb
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
                 Configuration.GetConnectionString("DefaultConnection")
                 ));
+            services.AddRazorPages();
             services.AddControllersWithViews();
         }
 

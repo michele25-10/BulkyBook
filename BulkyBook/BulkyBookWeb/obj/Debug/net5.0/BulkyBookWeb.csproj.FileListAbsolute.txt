@@ -146,3 +146,6 @@ C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\bin\
 C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
