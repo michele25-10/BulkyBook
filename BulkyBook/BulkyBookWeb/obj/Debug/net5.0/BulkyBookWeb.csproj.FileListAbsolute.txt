@@ -149,3 +149,4 @@ C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\
 C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
 C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
 C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Michele Gabrieli\OneDrive\Desktop\BulkyBook\BulkyBook\BulkyBookWeb\obj\Debug\net5.0\Razor\Views\Shared\_Notification.cshtml.g.cs
